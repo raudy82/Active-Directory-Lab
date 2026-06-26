@@ -100,8 +100,6 @@ Applied to entire domain
   
 ## 📚 Lessons Learned
 
-DNS is critical for domain join and policy enforcement.
-
 Active Directory controls authentication & authorization.
 
 GPOs allow powerful, centralized configuration of users environment.
